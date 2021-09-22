@@ -2,13 +2,13 @@
 
 Desenvolvedor fullstack estudante de Ciência da Computação na Universidade Federal da Bahia. Experiência de 2 anos de iniciação científica na área de de Inteligência Computacional, principalmente na área de Otimização.
 
-Atualmente estudando Java com Spring Boot e Angular e aprofundando no estudo de engenharia de software.
+Atualmente estudando Java com Spring Boot, Angular e aprofundando no estudo de engenharia de software.
 
 
  <div>
   <a href="https://github.com/mateuscsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscsilva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscsilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
