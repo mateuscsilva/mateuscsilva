@@ -1,6 +1,6 @@
 ### Oi! Eu sou Mateus Carvalho. 
 
-Mestrando em Ciência da Computação na Universidade Federal da Bahia. Experiência de 2 anos de iniciação científica na área de de Inteligência Computacional, principalmente na área de Otimização aplicada a pesquisa operacional e teoria dos grafos.
+Mestrando em Ciência da Computação na Universidade Federal da Bahia. Desde 2017 pesquisando na área de de Inteligência Computacional, principalmente na área de Otimização aplicada a pesquisa operacional e teoria dos grafos.
 
 Atualmente estudando sobre otimização sob incerteza para problemas de roteamento de veículos, otimização combinatória utilizando programação inteira e metaheurísticas para problemas em de coloração em grafos e problemas de consolidação de carga. 
 
