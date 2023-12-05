@@ -1,8 +1,8 @@
 ### Oi! Eu sou Mateus Carvalho. 
 
-Desenvolvedor fullstack estudante de Ciência da Computação na Universidade Federal da Bahia. Experiência de 2 anos de iniciação científica na área de de Inteligência Computacional, principalmente na área de Otimização.
+Mestrando em Ciência da Computação na Universidade Federal da Bahia. Experiência de 2 anos de iniciação científica na área de de Inteligência Computacional, principalmente na área de Otimização aplicada a pesquisa operacional e teoria dos grafos.
 
-Atualmente estudando Java com Spring Boot, Angular e aprofundando no estudo de engenharia de software.
+Atualmente estudando sobre otimização sob incerteza para problemas de roteamento de veículos, otimização combinatória utilizando programação inteira e metaheurísticas para problemas em de coloração em grafos e problemas de consolidação de carga. 
 
 
  <div>
